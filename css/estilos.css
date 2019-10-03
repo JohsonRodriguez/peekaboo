@@ -67,6 +67,11 @@ footer .contenedor{
 footer label{
     color: red;
 }
+
+footer #iconos{
+    color: orange;
+    font-size: 10px;
+}
 .copy{
     font-size: 10px;
 }
