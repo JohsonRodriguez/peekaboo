@@ -64,7 +64,9 @@ footer .contenedor{
     justify-content: center;
     padding-bottom: 25px;
 }
-
+footer label{
+    color: red;
+}
 .copy{
     font-size: 20px;
 }
